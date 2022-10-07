@@ -9,4 +9,12 @@ public class Light {
     public void switchOff(){
         System.out.println("Light switched off");
     }
+
+    public void adjustUp(){
+        System.out.println("Light adjusted up");
+    }
+
+    public void adjustDown(){
+        System.out.println("Light adjusted down");
+    }
 }
